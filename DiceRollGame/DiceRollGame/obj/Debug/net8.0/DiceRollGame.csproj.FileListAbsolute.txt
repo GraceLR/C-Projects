@@ -1,0 +1,14 @@
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\China Zone\Desktop\GLCode\C-Projects\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
