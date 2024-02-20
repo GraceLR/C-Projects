@@ -1,8 +1,13 @@
 ﻿
+var randome = new Random();
+var dice = new Dice(randome, 6);
+var guessingGame = new GuessingGame(dice);
+
+bool result = guessingGame.Play();
+
 class GuessingGame
 {
     private readonly Dice _dice;
-    private readonly ConsoleReader _consoleReader;
     private const int InitialTries = 3;
 
     public GuessingGame(Dice dice)
@@ -10,7 +15,7 @@ class GuessingGame
         _dice = dice;
     }
 
-    public void Play()
+    public bool Play()
     {
         var diceRollResult = _dice.Roll();
         Console.WriteLine($"Dice rolled. Guess what number it shows in {InitialTries} tries.");
@@ -18,15 +23,20 @@ class GuessingGame
         int triesLeft = InitialTries;
         while (triesLeft > 0)
         {
-            var guess = _consoleReader.ReadInteger("Please enter a number:");
+            var guess = ConsoleReader.ReadInteger("Please enter a number:");
+            if (guess == diceRollResult)
+            {
+                return true;
+            }
             triesLeft--;
         }
+        return false;
     }
 }
 
-public class ConsoleReader
+public static class ConsoleReader
 {
-    public int ReadInteger(string message)
+    public static int ReadInteger(string message)
     {
         int result;
         do
